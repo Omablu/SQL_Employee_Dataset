@@ -3,7 +3,7 @@
 Employee_dataset
 ## Task 1
 Questions.
--- Create a Database named “Students Record”
+- Create a Database named “Students Record”
 -- Create the following tables in the database create
 -- Students Info  (Student ID, Gender, Name, Age, Subject)
 -- Health records (Student ID, Blood Group, Height, Weight)
